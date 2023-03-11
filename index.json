@@ -1,16 +1,34 @@
 {
-    "home" :{
-        "sapaan":"Hallo, Mahasiswa Universitas Terbuka",
-        "banner":"https://live.staticflickr.com/65535/52712586043_bc0f8b10df_b.jpg",
-        "informasi":"https://live.staticflickr.com/65535/52712097490_d19399a2ac_b.jpg"
+    "home": {
+        "sapaan": "Hallo, Mahasiswa Universitas Terbuka",
+        "banner": "https://live.staticflickr.com/65535/52712586043_bc0f8b10df_b.jpg",
+        "informasi": "https://live.staticflickr.com/65535/52712097490_d19399a2ac_b.jpg",
+        "artikel": [
+            {
+                "gambar": "https://live.staticflickr.com/65535/52715069025_bfa55075d7_z.jpg",
+                "link": "https://www.ut.ac.id/content/karya-ilmiah"
+            },
+            {
+                "gambar": "https://live.staticflickr.com/65535/52714932454_fff6bb873a_z.jpg",
+                "link": "https://www.ut.ac.id/2015/upbjj-ut/alamat-upbjj-ut"
+            },
+            {
+                "gambar": "https://live.staticflickr.com/65535/52714948559_caf910b370_z.jpg",
+                "link": "https://www.ut.ac.id/tentang-ut"
+            },
+            {
+                "gambar": "https://live.staticflickr.com/65535/52715194243_19c4777421_z.jpg",
+                "link": "https://www.ut.ac.id/biaya-pendidikan"
+            }
+        ]
     },
-    "program":{
-        "banner":"https://live.staticflickr.com/65535/52712132683_1c31a69013_b.jpg"
+    "program": {
+        "banner": "https://live.staticflickr.com/65535/52712132683_1c31a69013_b.jpg"
     },
-    "upbjj":{
-        "banner":"https://live.staticflickr.com/65535/52727694010_5d83564fe8_z.jpg"
+    "upbjj": {
+        "banner": "https://live.staticflickr.com/65535/52727694010_5d83564fe8_z.jpg"
     },
-    "latihan":{
-        "banner":"https://live.staticflickr.com/65535/52726893467_726bd4f07a_z.jpg"
+    "latihan": {
+        "banner": "https://live.staticflickr.com/65535/52726893467_726bd4f07a_z.jpg"
     }
 }
