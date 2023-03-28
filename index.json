@@ -1,6 +1,6 @@
 {
     "home": {
-        "sapaan": "Hallo, Mahasiswa Universitas Terbuka ",
+        "sapaan": "Hallo, Mahasiswa Universitas Terbuka",
         "banner": "https://live.staticflickr.com/65535/52712586043_bc0f8b10df_b.jpg",
         "informasi": "https://live.staticflickr.com/65535/52712097490_d19399a2ac_b.jpg",
         "artikel": [
@@ -30,5 +30,37 @@
     },
     "latihan": {
         "banner": "https://live.staticflickr.com/65535/52726893467_726bd4f07a_z.jpg"
-    }
+    },
+    "katalog": [
+        {
+            "gambar": "",
+            "deskripsi": "Sistem Penyelenggara",
+            "link": "https://www.ut.ac.id/sites/all/files/images/Penyelenggaraan.pdf",
+            "tahun":"2022/2023"
+        },
+        {
+            "gambar": "",
+            "deskripsi": "FE, FHISIP, FKIP, FST",
+            "link": "https://www.ut.ac.id/sites/all/files/images/FKIP_Nonpendas.pdf",
+            "tahun":"2022/2023"
+        },
+        {
+            "gambar": "",
+            "deskripsi": "FKIP PGSD & PGPAUD",
+            "link": "https://www.ut.ac.id/sites/all/files/images/FKIP_Pendas_0.pdf",
+            "tahun":"2022/2023"
+        },
+        {
+            "gambar": "",
+            "deskripsi": "Program Pascasarjana",
+            "link": "https://www.ut.ac.id/sites/all/files/images/PPs_0.pdf",
+            "tahun":"2022/2023"
+        },
+        {
+            "gambar": "",
+            "deskripsi": "Program Sertifikat",
+            "link": "https://www.ut.ac.id/sites/all/files/images/Sertifikat_0.pdf",
+            "tahun":"2022/2023"
+        }
+    ]
 }
