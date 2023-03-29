@@ -31,36 +31,33 @@
     "latihan": {
         "banner": "https://live.staticflickr.com/65535/52726893467_726bd4f07a_z.jpg"
     },
-    "katalog": [
+    "katalog": 
+    [
+        {"tahun":"2022/2023"},
         {
             "gambar": "https://live.staticflickr.com/65535/52776499451_a634b7a60b_w.jpg",
             "deskripsi": "Sistem Penyelenggara",
-            "link": "https://www.ut.ac.id/sites/all/files/images/Penyelenggaraan.pdf",
-            "tahun":"2022/2023"
+            "link": "https://www.ut.ac.id/sites/all/files/images/Penyelenggaraan.pdf"
         },
         {
             "gambar": "https://live.staticflickr.com/65535/52776896715_3fc7a44ac2_w.jpg",
             "deskripsi": "FE, FHISIP, FKIP, FST",
-            "link": "https://www.ut.ac.id/sites/all/files/images/FKIP_Nonpendas.pdf",
-            "tahun":"2022/2023"
+            "link": "https://www.ut.ac.id/sites/all/files/images/FKIP_Nonpendas.pdf"
         },
         {
             "gambar": "https://live.staticflickr.com/65535/52776965703_3a2c42a4f1_w.jpg",
             "deskripsi": "FKIP PGSD & PGPAUD",
-            "link": "https://www.ut.ac.id/sites/all/files/images/FKIP_Pendas_0.pdf",
-            "tahun":"2022/2023"
+            "link": "https://www.ut.ac.id/sites/all/files/images/FKIP_Pendas_0.pdf"
         },
         {
             "gambar": "https://live.staticflickr.com/65535/52776897380_927d5d68e7_w.jpg",
             "deskripsi": "Program Pascasarjana",
-            "link": "https://www.ut.ac.id/sites/all/files/images/PPs_0.pdf",
-            "tahun":"2022/2023"
+            "link": "https://www.ut.ac.id/sites/all/files/images/PPs_0.pdf"
         },
         {
             "gambar": "https://live.staticflickr.com/65535/52776740579_52390c970a_w.jpg",
             "deskripsi": "Program Sertifikat",
-            "link": "https://www.ut.ac.id/sites/all/files/images/Sertifikat_0.pdf",
-            "tahun":"2022/2023"
+            "link": "https://www.ut.ac.id/sites/all/files/images/Sertifikat_0.pdf"
         }
     ]
 }
